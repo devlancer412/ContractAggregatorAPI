@@ -5,6 +5,7 @@ pip install djangorestframework \
 
 ## CONFIG DATABASE
 ### Install MySQL database
+----------------
 ### Add Database(run sql query in SQLyog or Navicat)
 CREATE DATABASE `Aggregate`CHARACTER SET utf8 COLLATE utf8_general_ci; \
 USER: 'root' \
