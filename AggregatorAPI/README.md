@@ -35,3 +35,8 @@ python manage.py createsuperuser
 ```shell
 python manage.py runserver
 ```
+
+## LOOK RESULT
+
+For web page: http://localhost:8000/events/?format=api\
+For json result: http://localhost:8000/events/?format=json
