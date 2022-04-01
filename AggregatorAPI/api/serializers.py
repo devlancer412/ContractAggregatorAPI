@@ -6,4 +6,4 @@ from .models import ContractEvent
 class EventSerializer(serializers.HyperlinkedModelSerializer):
     class Meta:
         model = ContractEvent
-        fields = ('EventId', 'VoterAddress', 'ProposalName')
+        fields = ('EventId', 'VoterAddress', 'ProposalName', 'timestamp')
