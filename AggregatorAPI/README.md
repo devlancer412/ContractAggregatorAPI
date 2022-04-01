@@ -1,7 +1,8 @@
 ## INSTALL PACKAGES
 pip install django \
 pip install mysqlclient \
-pip install djangorestframework 
+pip install djangorestframework \
+pip install web3
 
 ## CONFIG DATABASE
 ### Install MySQL database
